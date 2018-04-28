@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/vue-loader.conf.js
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/webpack.base.conf.js
+END
+dev-client.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/dev-client.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/webpack.dev.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/utils.js
+END
+dev-server.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/dev-server.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/check-versions.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/build/webpack.prod.conf.js
+END

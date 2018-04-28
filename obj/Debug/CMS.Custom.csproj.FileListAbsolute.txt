@@ -1,0 +1,6 @@
+G:\company\CCWOnline-Contract\trunk\CMS.Custom\bin\CMS.Custom.dll.config
+G:\company\CCWOnline-Contract\trunk\CMS.Custom\bin\CMS.Custom.dll
+G:\company\CCWOnline-Contract\trunk\CMS.Custom\bin\CMS.Custom.pdb
+G:\company\CCWOnline-Contract\trunk\CMS.Custom\obj\Debug\CMS.Custom.csprojResolveAssemblyReference.cache
+G:\company\CCWOnline-Contract\trunk\CMS.Custom\obj\Debug\CMS.Custom.dll
+G:\company\CCWOnline-Contract\trunk\CMS.Custom\obj\Debug\CMS.Custom.pdb

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CCWOnline-Contract/!svn/ver/298/trunk/CMS.Custom/src/store/modules
+END
+permission.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CCWOnline-Contract/!svn/ver/41/trunk/CMS.Custom/src/store/modules/permission.js
+END
+payMag.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CCWOnline-Contract/!svn/ver/115/trunk/CMS.Custom/src/store/modules/payMag.js
+END
+user.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CCWOnline-Contract/!svn/ver/212/trunk/CMS.Custom/src/store/modules/user.js
+END
+incomeMag.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CCWOnline-Contract/!svn/ver/298/trunk/CMS.Custom/src/store/modules/incomeMag.js
+END
+app.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CCWOnline-Contract/!svn/ver/54/trunk/CMS.Custom/src/store/modules/app.js
+END
+frameworkContractMag.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/src/store/modules/frameworkContractMag.js
+END
+contractMag.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CCWOnline-Contract/!svn/ver/23/trunk/CMS.Custom/src/store/modules/contractMag.js
+END
+clientMag.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CCWOnline-Contract/!svn/ver/67/trunk/CMS.Custom/src/store/modules/clientMag.js
+END

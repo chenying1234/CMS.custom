@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CCWOnline-Contract/!svn/ver/298/trunk/CMS.Custom/src/api
+END
+fileUpload.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CCWOnline-Contract/!svn/ver/66/trunk/CMS.Custom/src/api/fileUpload.js
+END
+payManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CCWOnline-Contract/!svn/ver/298/trunk/CMS.Custom/src/api/payManagement.js
+END
+incomeManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CCWOnline-Contract/!svn/ver/291/trunk/CMS.Custom/src/api/incomeManagement.js
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CCWOnline-Contract/!svn/ver/58/trunk/CMS.Custom/src/api/login.js
+END
+contractManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CCWOnline-Contract/!svn/ver/279/trunk/CMS.Custom/src/api/contractManagement.js
+END
+clientManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CCWOnline-Contract/!svn/ver/67/trunk/CMS.Custom/src/api/clientManagement.js
+END
+supplierManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CCWOnline-Contract/!svn/ver/268/trunk/CMS.Custom/src/api/supplierManagement.js
+END
+framewordContractManagement.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CCWOnline-Contract/!svn/ver/96/trunk/CMS.Custom/src/api/framewordContractManagement.js
+END
